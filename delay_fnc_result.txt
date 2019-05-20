@@ -1,0 +1,700 @@
+For 10 us:
+Record 22 itn per tick.
+Record resolution : 1000.
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 0.00
+	microsleep_loop success rate : 0.00
+For 20 us:
+Record 18 itn per tick.
+Record resolution : 1000.
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 0.00
+	microsleep_loop success rate : 0.00
+For 30 us:
+Record 18 itn per tick.
+Record resolution : 1000.
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 0.00
+	microsleep_loop success rate : 0.00
+For 40 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 0.00
+	microsleep_loop success rate : 0.00
+For 50 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 0.00
+	microsleep_loop success rate : 0.00
+For 60 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	12/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 1.20
+	microsleep_loop success rate : 0.00
+For 70 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	21/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 2.10
+	microsleep_loop success rate : 0.00
+For 80 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	155/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 15.50
+	microsleep_loop success rate : 0.00
+For 90 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	147/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 14.70
+	microsleep_loop success rate : 0.00
+For 100 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	326/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 32.60
+	microsleep_loop success rate : 0.00
+For 110 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	350/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 35.00
+	microsleep_loop success rate : 0.00
+For 120 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	283/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 28.30
+	microsleep_loop success rate : 0.00
+For 130 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	349/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 34.90
+	microsleep_loop success rate : 0.00
+For 140 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	469/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 46.90
+	microsleep_loop success rate : 0.00
+For 150 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	519/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 51.90
+	microsleep_loop success rate : 0.00
+For 160 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	543/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 54.30
+	microsleep_loop success rate : 0.00
+For 170 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	512/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 51.20
+	microsleep_loop success rate : 0.00
+For 180 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	545/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 54.50
+	microsleep_loop success rate : 0.00
+For 190 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	542/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 54.20
+	microsleep_loop success rate : 0.00
+For 200 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	696/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 69.60
+	microsleep_loop success rate : 0.00
+For 210 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	708/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 70.80
+	microsleep_loop success rate : 0.00
+For 220 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	664/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 66.40
+	microsleep_loop success rate : 0.00
+For 230 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	685/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 68.50
+	microsleep_loop success rate : 0.00
+For 240 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	677/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 67.70
+	microsleep_loop success rate : 0.00
+For 250 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	733/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 73.30
+	microsleep_loop success rate : 0.00
+For 260 us:
+Record 17 itn per tick.
+Record resolution : 1000.
+	752/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 75.20
+	microsleep_loop success rate : 0.00
+For 270 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	712/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 71.20
+	microsleep_loop success rate : 0.00
+For 280 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	715/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 71.50
+	microsleep_loop success rate : 0.00
+For 290 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	721/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 72.10
+	microsleep_loop success rate : 0.00
+For 300 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	764/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 76.40
+	microsleep_loop success rate : 0.00
+For 310 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	761/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 76.10
+	microsleep_loop success rate : 0.00
+For 320 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	754/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 75.40
+	microsleep_loop success rate : 0.00
+For 330 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	767/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 76.70
+	microsleep_loop success rate : 0.00
+For 340 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	771/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 77.10
+	microsleep_loop success rate : 0.00
+For 350 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	779/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 77.90
+	microsleep_loop success rate : 0.00
+For 360 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	762/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 76.20
+	microsleep_loop success rate : 0.00
+For 370 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	777/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 77.70
+	microsleep_loop success rate : 0.00
+For 380 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	773/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 77.30
+	microsleep_loop success rate : 0.00
+For 390 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	759/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 75.90
+	microsleep_loop success rate : 0.00
+For 400 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	872/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 87.20
+	microsleep_loop success rate : 0.00
+For 410 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	880/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 88.00
+	microsleep_loop success rate : 0.00
+For 420 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	871/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 87.10
+	microsleep_loop success rate : 0.00
+For 430 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	881/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 88.10
+	microsleep_loop success rate : 0.00
+For 440 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	860/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 86.00
+	microsleep_loop success rate : 0.00
+For 450 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	878/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 87.80
+	microsleep_loop success rate : 0.00
+For 460 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	885/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 88.50
+	microsleep_loop success rate : 0.00
+For 470 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	871/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 87.10
+	microsleep_loop success rate : 0.00
+For 480 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	872/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 87.20
+	microsleep_loop success rate : 0.00
+For 490 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	841/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 84.10
+	microsleep_loop success rate : 0.00
+For 500 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	907/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 90.70
+	microsleep_loop success rate : 0.00
+For 510 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	902/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 90.20
+	microsleep_loop success rate : 0.00
+For 520 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	894/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 89.40
+	microsleep_loop success rate : 0.00
+For 530 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	910/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 91.00
+	microsleep_loop success rate : 0.00
+For 540 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	907/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 90.70
+	microsleep_loop success rate : 0.00
+For 550 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	903/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 90.30
+	microsleep_loop success rate : 0.00
+For 560 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	889/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 88.90
+	microsleep_loop success rate : 0.00
+For 570 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	896/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 89.60
+	microsleep_loop success rate : 0.00
+For 580 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	912/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 91.20
+	microsleep_loop success rate : 0.00
+For 590 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	891/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 89.10
+	microsleep_loop success rate : 0.00
+For 600 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	940/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 94.00
+	microsleep_loop success rate : 0.00
+For 610 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	942/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 94.20
+	microsleep_loop success rate : 0.00
+For 620 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	931/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 93.10
+	microsleep_loop success rate : 0.00
+For 630 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	935/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 93.50
+	microsleep_loop success rate : 0.00
+For 640 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	938/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 93.80
+	microsleep_loop success rate : 0.00
+For 650 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	935/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 93.50
+	microsleep_loop success rate : 0.00
+For 660 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	935/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 93.50
+	microsleep_loop success rate : 0.00
+For 670 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	938/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 93.80
+	microsleep_loop success rate : 0.00
+For 680 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	949/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 94.90
+	microsleep_loop success rate : 0.00
+For 690 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	934/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 93.40
+	microsleep_loop success rate : 0.00
+For 700 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	955/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.50
+	microsleep_loop success rate : 0.00
+For 710 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	965/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 96.50
+	microsleep_loop success rate : 0.00
+For 720 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	953/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.30
+	microsleep_loop success rate : 0.00
+For 730 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	944/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 94.40
+	microsleep_loop success rate : 0.00
+For 740 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	958/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.80
+	microsleep_loop success rate : 0.00
+For 750 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	928/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 92.80
+	microsleep_loop success rate : 0.00
+For 760 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	958/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.80
+	microsleep_loop success rate : 0.00
+For 770 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	957/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.70
+	microsleep_loop success rate : 0.00
+For 780 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	959/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.90
+	microsleep_loop success rate : 0.00
+For 790 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	953/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.30
+	microsleep_loop success rate : 0.00
+For 800 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	971/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 97.10
+	microsleep_loop success rate : 0.00
+For 810 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	959/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.90
+	microsleep_loop success rate : 0.00
+For 820 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	949/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 94.90
+	microsleep_loop success rate : 0.00
+For 830 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	949/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 94.90
+	microsleep_loop success rate : 0.00
+For 840 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	956/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.60
+	microsleep_loop success rate : 0.00
+For 850 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	966/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 96.60
+	microsleep_loop success rate : 0.00
+For 860 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	971/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 97.10
+	microsleep_loop success rate : 0.00
+For 870 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	968/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 96.80
+	microsleep_loop success rate : 0.00
+For 880 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	958/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.80
+	microsleep_loop success rate : 0.00
+For 890 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	973/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 97.30
+	microsleep_loop success rate : 0.00
+For 900 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	958/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 95.80
+	microsleep_loop success rate : 0.00
+For 910 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	976/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 97.60
+	microsleep_loop success rate : 0.00
+For 920 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	961/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 96.10
+	microsleep_loop success rate : 0.00
+For 930 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	949/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 94.90
+	microsleep_loop success rate : 0.00
+For 940 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	977/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 97.70
+	microsleep_loop success rate : 0.00
+For 950 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	962/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 96.20
+	microsleep_loop success rate : 0.00
+For 960 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	973/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 97.30
+	microsleep_loop success rate : 0.00
+For 970 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	968/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 96.80
+	microsleep_loop success rate : 0.00
+For 980 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	964/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 96.40
+	microsleep_loop success rate : 0.00
+For 990 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	980/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 98.00
+	microsleep_loop success rate : 0.00
+For 1000 us:
+Record 16 itn per tick.
+Record resolution : 1000.
+	975/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	0/1000 Passed with the tolerance ranging from 0~5% with step size of +1%
+	microsleep success rate : 97.50
+	microsleep_loop success rate : 0.00
