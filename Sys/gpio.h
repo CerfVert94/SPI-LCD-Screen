@@ -1,3 +1,4 @@
+// Pin number is identified by BCM.
 #define GPIO_SIZE 4096
 #define	GPFSEL0 gpiomem[0]
 #define GPFSEL1 gpiomem[1]
