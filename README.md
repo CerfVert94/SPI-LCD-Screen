@@ -12,7 +12,7 @@ At some point, I used wiringPi(http://wiringpi.com/) library to compare the GPIO
 While a sleep function like "nanosleep" is provided for Raspberry Pi, the time measurement showed a huge discrepancy between the desired sleep duration and the actual duration at. This was measured by using oscilloscope and switching GPIO on and off. I recall that the switching time of GPIO measured by the oscilloscope was about 36 - 40 nanoseconds, but this is to be verified.<br>
 
 Anyway, in order to implement a sleep function with correct duration, I used the timer of BCM2835 by mapping the memory at /dev/mem + 0x20003000.<br>
-While this seemed to increase the precision, it didn't work well below 400us, according to the <b>delay_fnc_result.txt</b> (Some part of this text file seems rather cryptic, and I do not know what I was thinking, but what matters is fortunately interpretable). <br>
+While this seemed to increase the precision, it didn't work well below 400us, according to the <b>delay_fnc_result.txt</b> (Some part of this text file seems rather cryptic, and I do not know what I was thinking, but what really matters is fortunately intelligible). <br>
   
 The problem seems that we don't have a control over the OS scheduling and resource allocation. To increase the precision and avoid sudden spikes in sleep duration, I probably should use a Real Time OS. 
 
