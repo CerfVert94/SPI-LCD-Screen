@@ -16,7 +16,13 @@ While this seemed to increase the precision, it didn't work well below 400us, ac
   
 The problem seems that we don't have a control over the OS scheduling and resource allocation. To increase the precision and avoid sudden spikes in sleep duration, I probably should use a Real Time OS. 
 
+
+
 ## Video Demo
 https://youtu.be/34jqGsdNCsc 
 
 [![Video Demo](https://img.youtube.com/vi/34jqGsdNCsc/0.jpg)](https://www.youtube.com/watch?v=34jqGsdNCsc)
+
+The video used for the demo is not actually a video but rather a GIF animation (but not exactly. Refer to the <b>PixToMx.m</b>, the matlab file.) 
+It's just a series of bitmap images drawn at a high speed.
+
